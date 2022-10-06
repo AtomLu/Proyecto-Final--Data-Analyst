@@ -22,8 +22,8 @@ Dashboard
 
 
 # Machine Learning as potential solution
-LogReg
-XGBC
+- LogReg
+- XGBC
 
 
 # Conclusions
